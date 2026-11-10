@@ -12,8 +12,7 @@
 ![Evidence](https://img.shields.io/badge/Evidence-16%20Screenshots-6C63FF?style=for-the-badge)
 
 **Course:** DS 4115 — Marketing Analytics  
-**Student:** `[Your name]` · **ID:** `[Your ID]` · **Section:** `[Your section]`  
-**Submission date:** `[Insert date]`
+**Student:** `Musfique Ahmed` · **ID:** `0152330101` · **Section:** `BA`  
 
 </div>
 
